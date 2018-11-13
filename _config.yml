@@ -1,0 +1,12 @@
+# Site settings
+title:GXL工作室
+email:support@gxlstudio.win
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://gxlstudio.win/" # the base hostname & protocol for your site
+
+twitter_username:gxlstudio
+github_username:gxlstudio
+
+# Build settings
+markdown: kramdown
